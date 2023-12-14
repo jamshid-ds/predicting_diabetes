@@ -1,2 +1,4 @@
 # predicting_diabetes
-In this project, I created a program for pregnant women over 21 years of age to determine if they have diabetes or not
+
+# This project is a machine learning project to predict whether a patient has diabetes or not. The dataset used is the Pima Indians Diabetes Dataset.
+# The technologies used in this project are Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, and joblib.
